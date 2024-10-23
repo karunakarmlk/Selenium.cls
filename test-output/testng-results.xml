@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-18T13:34:41 IST" name="Suite" finished-at="2024-10-18T13:36:27 IST" duration-ms="106602">
+    <groups>
+    </groups>
+    <test started-at="2024-10-18T13:34:41 IST" name="Test runner 1" finished-at="2024-10-18T13:35:06 IST" duration-ms="25540">
+      <class name="CrossBrowser.Test2">
+        <test-method is-config="true" signature="classconfig(java.lang.String)[pri:0, instance:CrossBrowser.Test2@51c668e3]" started-at="2024-10-18T13:34:41 IST" name="classconfig" finished-at="2024-10-18T13:34:47 IST" duration-ms="5919" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classconfig -->
+        <test-method signature="seleniumTest()[pri:0, instance:CrossBrowser.Test2@51c668e3]" started-at="2024-10-18T13:34:47 IST" name="seleniumTest" finished-at="2024-10-18T13:34:49 IST" duration-ms="2313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumTest -->
+        <test-method is-config="true" signature="classTearDown()[pri:0, instance:CrossBrowser.Test2@51c668e3]" started-at="2024-10-18T13:34:49 IST" name="classTearDown" finished-at="2024-10-18T13:34:49 IST" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classTearDown -->
+      </class> <!-- CrossBrowser.Test2 -->
+      <class name="CrossBrowser.Test1">
+        <test-method is-config="true" signature="classconfig(java.lang.String)[pri:0, instance:CrossBrowser.Test1@537f60bf]" started-at="2024-10-18T13:34:49 IST" name="classconfig" finished-at="2024-10-18T13:34:50 IST" duration-ms="983" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classconfig -->
+        <test-method signature="googleTest()[pri:0, instance:CrossBrowser.Test1@537f60bf]" started-at="2024-10-18T13:34:50 IST" name="googleTest" finished-at="2024-10-18T13:35:06 IST" duration-ms="15991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest -->
+        <test-method is-config="true" signature="classTearDown()[pri:0, instance:CrossBrowser.Test1@537f60bf]" started-at="2024-10-18T13:35:06 IST" name="classTearDown" finished-at="2024-10-18T13:35:06 IST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classTearDown -->
+      </class> <!-- CrossBrowser.Test1 -->
+    </test> <!-- Test runner 1 -->
+    <test started-at="2024-10-18T13:34:41 IST" name="Test runner 3" finished-at="2024-10-18T13:35:19 IST" duration-ms="38040">
+      <class name="CrossBrowser.Test2">
+        <test-method is-config="true" signature="classconfig(java.lang.String)[pri:0, instance:CrossBrowser.Test2@470734c3]" started-at="2024-10-18T13:34:41 IST" name="classconfig" finished-at="2024-10-18T13:35:10 IST" duration-ms="28928" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classconfig -->
+        <test-method signature="seleniumTest()[pri:0, instance:CrossBrowser.Test2@470734c3]" started-at="2024-10-18T13:35:10 IST" name="seleniumTest" finished-at="2024-10-18T13:35:10 IST" duration-ms="457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumTest -->
+        <test-method is-config="true" signature="classTearDown()[pri:0, instance:CrossBrowser.Test2@470734c3]" started-at="2024-10-18T13:35:10 IST" name="classTearDown" finished-at="2024-10-18T13:35:11 IST" duration-ms="1250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classTearDown -->
+      </class> <!-- CrossBrowser.Test2 -->
+      <class name="CrossBrowser.Test1">
+        <test-method is-config="true" signature="classconfig(java.lang.String)[pri:0, instance:CrossBrowser.Test1@2cf3d63b]" started-at="2024-10-18T13:35:11 IST" name="classconfig" finished-at="2024-10-18T13:35:13 IST" duration-ms="1755" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classconfig -->
+        <test-method signature="googleTest()[pri:0, instance:CrossBrowser.Test1@2cf3d63b]" started-at="2024-10-18T13:35:13 IST" name="googleTest" finished-at="2024-10-18T13:35:17 IST" duration-ms="4381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest -->
+        <test-method is-config="true" signature="classTearDown()[pri:0, instance:CrossBrowser.Test1@2cf3d63b]" started-at="2024-10-18T13:35:17 IST" name="classTearDown" finished-at="2024-10-18T13:35:19 IST" duration-ms="1240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classTearDown -->
+      </class> <!-- CrossBrowser.Test1 -->
+    </test> <!-- Test runner 3 -->
+    <test started-at="2024-10-18T13:34:41 IST" name="Test runner 2" finished-at="2024-10-18T13:36:27 IST" duration-ms="106602">
+      <class name="CrossBrowser.Test2">
+        <test-method is-config="true" signature="classconfig(java.lang.String)[pri:0, instance:CrossBrowser.Test2@6e9175d8]" started-at="2024-10-18T13:34:41 IST" name="classconfig" finished-at="2024-10-18T13:36:13 IST" duration-ms="92754" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classconfig -->
+        <test-method signature="seleniumTest()[pri:0, instance:CrossBrowser.Test2@6e9175d8]" started-at="2024-10-18T13:36:13 IST" name="seleniumTest" finished-at="2024-10-18T13:36:15 IST" duration-ms="1294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumTest -->
+        <test-method is-config="true" signature="classTearDown()[pri:0, instance:CrossBrowser.Test2@6e9175d8]" started-at="2024-10-18T13:36:15 IST" name="classTearDown" finished-at="2024-10-18T13:36:15 IST" duration-ms="740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classTearDown -->
+      </class> <!-- CrossBrowser.Test2 -->
+      <class name="CrossBrowser.Test1">
+        <test-method is-config="true" signature="classconfig(java.lang.String)[pri:0, instance:CrossBrowser.Test1@7d0b7e3c]" started-at="2024-10-18T13:36:15 IST" name="classconfig" finished-at="2024-10-18T13:36:20 IST" duration-ms="4159" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classconfig -->
+        <test-method signature="googleTest()[pri:0, instance:CrossBrowser.Test1@7d0b7e3c]" started-at="2024-10-18T13:36:20 IST" name="googleTest" finished-at="2024-10-18T13:36:26 IST" duration-ms="6880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest -->
+        <test-method is-config="true" signature="classTearDown()[pri:0, instance:CrossBrowser.Test1@7d0b7e3c]" started-at="2024-10-18T13:36:26 IST" name="classTearDown" finished-at="2024-10-18T13:36:27 IST" duration-ms="746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classTearDown -->
+      </class> <!-- CrossBrowser.Test1 -->
+    </test> <!-- Test runner 2 -->
+  </suite> <!-- Suite -->
+</testng-results>
